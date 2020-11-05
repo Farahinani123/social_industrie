@@ -18,7 +18,7 @@
 	<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyseventeen' ) ); ?>" class="imprint">
 		<?php
 			/* translators: %s: WordPress */
-		printf( __( 'Proudly powered by %s', 'twentyseventeen' ), 'WordPress' );
+		printf( __( 'Proudly powered by %s', 'twentyseventeen' ), 'FARAH INANI' );
 		?>
 	</a>
 </div><!-- .site-info -->
